@@ -4,6 +4,7 @@
 // @version      1.7
 // @description  Add template selector for Network Decom SIM ticket correspondence with auto-activation
 // @author       nyariell
+// @author       matkay
 // @match        https://issues.amazon.com/issues/*
 // @grant        none
 // @run-at       document-idle
