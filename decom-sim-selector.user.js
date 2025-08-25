@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Network Decom SIM Template Selector 2025
 // @namespace    http://tampermonkey.net/
-// @version      1.6
+// @version      1.7
 // @description  Add template selector for Network Decom SIM ticket correspondence with auto-activation
 // @author       nyariell
 // @match        https://issues.amazon.com/issues/*
